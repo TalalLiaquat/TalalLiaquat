@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Talal Liaquat</h1>
 <h3 align="center">A passionate AI and Data Scientist</h3>
 
+---
+
+## 🧠 About Me  
+
+I'm a **Computer Science undergraduate** exploring the exciting fields of **AI, Machine Learning, and Data Science**.  
+Alongside my academic journey, I’ve built projects in **Python, C, VBA, and Shell scripting** — ranging from file management systems to real-world ML applications.  
+
+This GitHub is my digital lab — where I experiment, learn, and share projects that bridge **theory with practical applications**.  
+
+---
+
+🎯 Computer Science Student | Aspiring **AI & Data Scientist**  
+🐍 Python • Machine Learning • Data Science • Web Development  
+💡 Passionate about turning **data into intelligence**  
+
+
 - 🔭 I’m currently working on **File Management System in C**
 
 - 🌱 I’m currently learning **Python for Data Science, AI, ML**
