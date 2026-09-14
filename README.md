@@ -30,15 +30,15 @@ My focus is on building **scalable cloud infrastructure, automated CI/CD pipelin
 
 ### 🎯 What I Do
 
-* ☁️ Build and deploy applications on **AWS**
-* 🐳 Containerize applications using **Docker**
-* ⚙️ Build **CI/CD pipelines with GitHub Actions**
-* 🐧 Work with **Linux & Bash**
-* ☸️ Work with **Kubernetes**
-* 🏗️ Work with **Terraform & Infrastructure as Code**
-* 🌐 Configure and deploy applications using **Nginx**
-* 📊 Explore **Monitoring & Observability**
-* 🤖 Work with **AI + DevOps / MLOps**
+* ☁️ Cloud infrastructure and deployment with **AWS**
+* 🐳 Containerization with **Docker**
+* ⚙️ CI/CD automation with **GitHub Actions**
+* 🐧 Linux administration and **Bash scripting**
+* ☸️ Container orchestration with **Kubernetes**
+* 🏗️ Infrastructure as Code with **Terraform**
+* 🌐 Reverse proxy and web server configuration with **Nginx**
+* 📊 Monitoring and observability
+* 🤖 AI + DevOps / MLOps
 
 ---
 
@@ -125,96 +125,6 @@ My focus is on building **scalable cloud infrastructure, automated CI/CD pipelin
 </a>
 
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### ☁️ AWS Static Website Deployment
-
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-S3-orange?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS-CloudFront-orange?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS-IAM-orange?style=for-the-badge&logo=amazonaws"/>
-</p>
-
-Deployed a static website using **Amazon S3 and CloudFront CDN**.
-
-**Technologies:**
-
-`AWS S3` `CloudFront` `IAM` `GitHub`
-
-🔗 **Live Website:**
-https://d28q1emyk5ygal.cloudfront.net/
-
----
-
-### 🔄 DevOps Portfolio CI/CD
-
-<p align="center">
-<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black?style=for-the-badge&logo=githubactions"/>
-<img src="https://img.shields.io/badge/Node.js-20-green?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Testing-Vitest-yellow?style=for-the-badge"/>
-</p>
-
-A DevOps portfolio project implementing an automated **CI/CD pipeline using GitHub Actions**.
-
-**Features:**
-
-* 🔄 Automated CI/CD pipeline
-* 🧪 Automated testing
-* 🔍 Linting
-* 🏗️ Automated build
-* 📦 Artifact generation
-* 🚀 Automated deployment
-
-🔗 **Repository:**
-https://github.com/TalalLiaquat/Devops-Portfolio-CICD
-
----
-
-### 🐳 Docker Flask Multi-Stage Application
-
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-Multi--Stage-blue?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Python-Flask-yellow?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/Linux-Container-black?style=for-the-badge&logo=linux"/>
-</p>
-
-A containerized Flask application built using Docker best practices.
-
-**Features:**
-
-* 🐳 Multi-stage Docker build
-* 🔐 Non-root container
-* ❤️ Docker health check
-* 🚀 Flask application
-* 📦 Optimized Docker image
-* 🔌 Container networking
-
----
-
-### 💍 Desi Wedding Management System
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws"/>
-</p>
-
-A full-stack Pakistani wedding management platform with **AI-powered features**, authentication, vendor management, payments, invitations, and cloud deployment.
-
-**DevOps & Cloud Components:**
-
-* 🐳 Docker & Docker Compose
-* ⚙️ GitHub Actions
-* ☁️ AWS EC2
-* 🪣 AWS S3
-* 🌐 Nginx
-* 🗄️ PostgreSQL
-* 🔐 JWT Authentication
 
 ---
 
