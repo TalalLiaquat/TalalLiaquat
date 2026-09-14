@@ -1,199 +1,247 @@
-<h1 align="center">Hi 👋, I'm Talal Liaquat</h1>
-<h3 align="center">Aspiring DevOps & Cloud Engineer 🚀</h3>
+<!-- HEADER BANNER -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Talal%20Liaquat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Talal Liaquat</h1>
+
+<h3 align="center">
+  🚀 Aspiring DevOps & Cloud Engineer | ☁️ AWS | 🐳 Docker | ⚙️ CI/CD
+</h3>
+
+<p align="center">
+  <a href="https://github.com/talalliaquat">
+    <img src="https://komarev.com/ghpvc/?username=talalliaquat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/talalliaquat?tab=followers">
+    <img src="https://img.shields.io/github/followers/talalliaquat?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 I'm a **Computer Science undergraduate** passionate about **DevOps, Cloud Computing, Automation, and AI-driven infrastructure**.
 
-I enjoy building and deploying applications using modern DevOps practices, including **containerization, CI/CD pipelines, cloud infrastructure, Linux, and automation**.
+I enjoy building, containerizing, automating, and deploying applications using modern DevOps practices.
 
-My GitHub is my hands-on lab where I build projects, experiment with cloud technologies, and continuously improve my DevOps skills.
+My goal is to become a **DevOps / Cloud Engineer** and eventually specialize in **AI + DevOps / MLOps**.
 
-🎯 Computer Science Student | Aspiring **DevOps & Cloud Engineer**
-☁️ AWS • Docker • Kubernetes • Cloud Computing
-⚙️ CI/CD • GitHub Actions • Linux • Automation
-🤖 Exploring **AI + DevOps / MLOps**
+### 🎯 What I Do
 
----
-
-## 🔧 What I'm Working On
-
-* 🔭 Building **DevOps & Cloud projects**
-* 🌱 Currently learning **Kubernetes, Terraform, AWS & MLOps**
-* ⚙️ Creating **CI/CD pipelines using GitHub Actions**
-* 🐳 Working with **Docker & Docker Compose**
-* ☁️ Deploying applications on **AWS**
-* 👯 Looking to collaborate on **DevOps, Cloud & Open Source projects**
-* 💬 Ask me about **AWS, Docker, Linux, Git, GitHub Actions & CI/CD**
-* 📫 Reach me at **[kambohtalal@gmail.com](mailto:kambohtalal@gmail.com)**
-* 🌐 Portfolio: https://talalliaquat.github.io/Portfolio-using-HTML-CSS-JS/
-* 💼 LinkedIn: https://www.linkedin.com/in/talal-liaquat/
-* ⚡ Fun fact: **I debug faster with chai ☕**
+* ☁️ Build and deploy applications on **AWS**
+* 🐳 Containerize applications using **Docker**
+* ⚙️ Build **CI/CD pipelines with GitHub Actions**
+* 🐧 Work with **Linux & Bash**
+* ☸️ Learning and practicing **Kubernetes**
+* 🏗️ Exploring **Terraform & Infrastructure as Code**
+* 📊 Exploring **Monitoring & Observability**
+* 🤖 Exploring **MLOps and AI + DevOps**
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 ### ☁️ Cloud & DevOps
 
-<p align="left">
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
+<p align="center">
+<a href="https://aws.amazon.com/">
+<img src="https://skillicons.dev/icons?i=aws" width="55" title="AWS"/>
 </a>
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" width="55" title="Docker"/>
 </a>
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45"/>
+<a href="https://kubernetes.io/">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="55" title="Kubernetes"/>
 </a>
-<a href="https://www.terraform.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45"/>
+<a href="https://www.terraform.io/">
+<img src="https://skillicons.dev/icons?i=terraform" width="55" title="Terraform"/>
 </a>
-<a href="https://github.com/features/actions" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="45" height="45"/>
+<a href="https://github.com/features/actions">
+<img src="https://skillicons.dev/icons?i=githubactions" width="55" title="GitHub Actions"/>
 </a>
-<a href="https://nginx.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/>
+<a href="https://nginx.org/">
+<img src="https://skillicons.dev/icons?i=nginx" width="55" title="Nginx"/>
+</a>
+<a href="https://www.linux.org/">
+<img src="https://skillicons.dev/icons?i=linux" width="55" title="Linux"/>
 </a>
 </p>
 
 ### 💻 Programming & Scripting
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+<p align="center">
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="55" title="Python"/>
 </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
+<a href="https://www.gnu.org/software/bash/">
+<img src="https://skillicons.dev/icons?i=bash" width="55" title="Bash"/>
 </a>
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" width="55" title="Java"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" width="55" title="JavaScript"/>
 </a>
 </p>
 
-### 🐧 Development & Infrastructure
+### 🗄️ Databases & Development
 
-<p align="left">
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+<p align="center">
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgresql" width="55" title="PostgreSQL"/>
 </a>
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="55" title="MySQL"/>
 </a>
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="55" title="Git"/>
 </a>
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="55" title="GitHub"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="55" title="VS Code"/>
 </a>
 </p>
 
 ---
 
-## 🚀 Featured DevOps Projects
+## 🚀 Featured Projects
 
 ### ☁️ AWS Static Website Deployment
 
-* AWS S3 Static Website Hosting
-* CloudFront CDN
-* AWS IAM
-* GitHub
-* Cloud deployment & configuration
+**Technologies:** AWS S3 • CloudFront • IAM • GitHub
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-S3-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS-CloudFront-orange?style=for-the-badge&logo=amazonaws"/>
+</p>
+
+🔗 **Live Website:**
+https://d28q1emyk5ygal.cloudfront.net/
+
+---
 
 ### 🔄 DevOps Portfolio CI/CD
 
-* GitHub Actions
-* Automated Build & Testing
-* CI/CD Pipeline
-* Node.js
-* GitHub Pages
+**Technologies:** GitHub Actions • Node.js • CI/CD • GitHub Pages
+
+<p align="center">
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black?style=for-the-badge&logo=githubactions"/>
+<img src="https://img.shields.io/badge/Node.js-20-green?style=for-the-badge&logo=node.js"/>
+</p>
+
+🔗 **Repository:**
+https://github.com/TalalLiaquat/Devops-Portfolio-CICD
+
+---
 
 ### 🐳 Docker Flask Multi-Stage Application
 
-* Docker
-* Dockerfile
-* Multi-stage builds
-* Flask
-* Health checks
-* Non-root container
-* Containerized application deployment
+**Technologies:** Docker • Flask • Python • Linux
+
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-Multi--Stage-blue?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Python-Flask-yellow?style=for-the-badge&logo=flask"/>
+</p>
+
+Features:
+
+* 🐳 Multi-stage Docker build
+* 🔐 Non-root container
+* ❤️ Container health check
+* 🚀 Flask application
+* 📦 Optimized Docker image
+
+---
 
 ### 💍 Desi Wedding Management System
 
-* React / Vite
-* FastAPI
-* PostgreSQL
-* Docker Compose
-* Nginx
-* GitHub Actions
-* AWS EC2 & S3
-* JWT Authentication
-* AI-powered features
+**Technologies:** React • FastAPI • PostgreSQL • Docker • AWS • GitHub Actions
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+</p>
+
+A full-stack wedding management platform with **AI-powered features**, authentication, vendor management, payments, invitations, and cloud deployment.
 
 ---
 
-## 📚 Currently Learning
+## 📚 DevOps Learning Roadmap
 
-```text
-AWS Cloud
-   ↓
-Docker & Containerization
-   ↓
-Kubernetes
-   ↓
-Terraform / Infrastructure as Code
-   ↓
-CI/CD & GitHub Actions
-   ↓
-Monitoring & Observability
-   ↓
-MLOps / AI + DevOps
-```
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-1st%20Step-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Git-GitHub-red?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-black?style=for-the-badge&logo=githubactions"/>
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform"/>
+<img src="https://img.shields.io/badge/MLOps-AI%20%2B%20DevOps-green?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Statistics
 
-<p align="left">
-<a href="https://www.linkedin.com/in/talal-liaquat/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=talalliaquat&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalliaquat&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=talalliaquat&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=talalliaquat&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/talal-liaquat/">
+<img src="https://img.shields.io/badge/LinkedIn-Talal%20Liaquat-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://github.com/talalliaquat" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40"/>
+
+<a href="https://github.com/talalliaquat">
+<img src="https://img.shields.io/badge/GitHub-TalalLiaquat-black?style=for-the-badge&logo=github"/>
 </a>
+
 <a href="mailto:kambohtalal@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
 </a>
+
+<a href="https://talalliaquat.github.io/Portfolio-using-HTML-CSS-JS/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-green?style=for-the-badge&logo=googlechrome"/>
+</a>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talalliaquat&show_icons=true&locale=en&layout=compact" alt="talalliaquat" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=talalliaquat&show_icons=true&locale=en" alt="talalliaquat" />
+<h3 align="center">
+⚡ Build • Automate • Deploy • Monitor • Scale ⚡
+</h3>
+
+<p align="center">
+<strong>Aspiring DevOps & Cloud Engineer 🚀</strong>
 </p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talalliaquat" alt="talalliaquat" />
-</p>
-
----
-
-<h3 align="center">⚡ Building • Automating • Deploying • Learning ⚡</h3>
-<h4 align="center">Aspiring DevOps & Cloud Engineer</h4>
