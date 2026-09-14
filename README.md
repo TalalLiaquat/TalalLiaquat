@@ -170,15 +170,6 @@ My focus is on building **scalable cloud infrastructure, automated CI/CD pipelin
 <img src="https://streak-stats.demolab.com?user=TalalLiaquat&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TalalLiaquat&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
