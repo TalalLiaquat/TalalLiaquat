@@ -1,22 +1,21 @@
-<!-- HEADER BANNER -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Talal%20Liaquat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://raw.githubusercontent.com/TalalLiaquat/TalalLiaquat/main/background%20image.png" width="100%" alt="Talal Liaquat DevOps"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Talal Liaquat</h1>
 
 <h3 align="center">
-  🚀 Aspiring DevOps & Cloud Engineer | ☁️ AWS | 🐳 Docker | ⚙️ CI/CD
+🚀 Aspiring DevOps & Cloud Engineer | ☁️ AWS | 🐳 Docker | ⚙️ CI/CD
 </h3>
 
 <p align="center">
-  <a href="https://github.com/talalliaquat">
-    <img src="https://komarev.com/ghpvc/?username=talalliaquat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/TalalLiaquat">
+    <img src="https://komarev.com/ghpvc/?username=TalalLiaquat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/talalliaquat?tab=followers">
-    <img src="https://img.shields.io/github/followers/talalliaquat?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
+  <a href="https://github.com/TalalLiaquat?tab=followers">
+    <img src="https://img.shields.io/github/followers/TalalLiaquat?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
   </a>
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-orange?style=flat" alt="DevOps"/>
 </p>
 
 ---
@@ -35,10 +34,10 @@ My goal is to become a **DevOps / Cloud Engineer** and eventually specialize in 
 * 🐳 Containerize applications using **Docker**
 * ⚙️ Build **CI/CD pipelines with GitHub Actions**
 * 🐧 Work with **Linux & Bash**
-* ☸️ Learning and practicing **Kubernetes**
-* 🏗️ Exploring **Terraform & Infrastructure as Code**
-* 📊 Exploring **Monitoring & Observability**
-* 🤖 Exploring **MLOps and AI + DevOps**
+* ☸️ Learn and practice **Kubernetes**
+* 🏗️ Explore **Terraform & Infrastructure as Code**
+* 📊 Explore **Monitoring & Observability**
+* 🤖 Explore **MLOps and AI + DevOps**
 
 ---
 
@@ -47,64 +46,83 @@ My goal is to become a **DevOps / Cloud Engineer** and eventually specialize in 
 ### ☁️ Cloud & DevOps
 
 <p align="center">
+
 <a href="https://aws.amazon.com/">
 <img src="https://skillicons.dev/icons?i=aws" width="55" title="AWS"/>
 </a>
+
 <a href="https://www.docker.com/">
 <img src="https://skillicons.dev/icons?i=docker" width="55" title="Docker"/>
 </a>
+
 <a href="https://kubernetes.io/">
 <img src="https://skillicons.dev/icons?i=kubernetes" width="55" title="Kubernetes"/>
 </a>
+
 <a href="https://www.terraform.io/">
 <img src="https://skillicons.dev/icons?i=terraform" width="55" title="Terraform"/>
 </a>
+
 <a href="https://github.com/features/actions">
 <img src="https://skillicons.dev/icons?i=githubactions" width="55" title="GitHub Actions"/>
 </a>
+
 <a href="https://nginx.org/">
 <img src="https://skillicons.dev/icons?i=nginx" width="55" title="Nginx"/>
 </a>
+
 <a href="https://www.linux.org/">
 <img src="https://skillicons.dev/icons?i=linux" width="55" title="Linux"/>
 </a>
+
 </p>
 
 ### 💻 Programming & Scripting
 
 <p align="center">
+
 <a href="https://www.python.org/">
 <img src="https://skillicons.dev/icons?i=python" width="55" title="Python"/>
 </a>
+
 <a href="https://www.gnu.org/software/bash/">
 <img src="https://skillicons.dev/icons?i=bash" width="55" title="Bash"/>
 </a>
+
 <a href="https://www.java.com/">
 <img src="https://skillicons.dev/icons?i=java" width="55" title="Java"/>
 </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://skillicons.dev/icons?i=javascript" width="55" title="JavaScript"/>
 </a>
+
 </p>
 
 ### 🗄️ Databases & Development
 
 <p align="center">
+
 <a href="https://www.postgresql.org/">
 <img src="https://skillicons.dev/icons?i=postgresql" width="55" title="PostgreSQL"/>
 </a>
+
 <a href="https://www.mysql.com/">
 <img src="https://skillicons.dev/icons?i=mysql" width="55" title="MySQL"/>
 </a>
+
 <a href="https://git-scm.com/">
 <img src="https://skillicons.dev/icons?i=git" width="55" title="Git"/>
 </a>
+
 <a href="https://github.com/">
 <img src="https://skillicons.dev/icons?i=github" width="55" title="GitHub"/>
 </a>
+
 <a href="https://code.visualstudio.com/">
 <img src="https://skillicons.dev/icons?i=vscode" width="55" title="VS Code"/>
 </a>
+
 </p>
 
 ---
@@ -113,12 +131,16 @@ My goal is to become a **DevOps / Cloud Engineer** and eventually specialize in 
 
 ### ☁️ AWS Static Website Deployment
 
-**Technologies:** AWS S3 • CloudFront • IAM • GitHub
-
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-S3-orange?style=for-the-badge&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/AWS-CloudFront-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS-IAM-orange?style=for-the-badge&logo=amazonaws"/>
 </p>
+
+Deployed a static website using **Amazon S3 and CloudFront CDN**.
+
+**Technologies:**
+`AWS S3` `CloudFront` `IAM` `GitHub`
 
 🔗 **Live Website:**
 https://d28q1emyk5ygal.cloudfront.net/
@@ -127,12 +149,22 @@ https://d28q1emyk5ygal.cloudfront.net/
 
 ### 🔄 DevOps Portfolio CI/CD
 
-**Technologies:** GitHub Actions • Node.js • CI/CD • GitHub Pages
-
 <p align="center">
 <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black?style=for-the-badge&logo=githubactions"/>
 <img src="https://img.shields.io/badge/Node.js-20-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Testing-Vitest-yellow?style=for-the-badge"/>
 </p>
+
+A DevOps portfolio project implementing an automated **CI/CD pipeline using GitHub Actions**.
+
+**Features:**
+
+* 🔄 Automated CI/CD pipeline
+* 🧪 Automated testing
+* 🔍 Linting
+* 🏗️ Automated build
+* 📦 Artifact generation
+* 🚀 Automated deployment
 
 🔗 **Repository:**
 https://github.com/TalalLiaquat/Devops-Portfolio-CICD
@@ -141,50 +173,85 @@ https://github.com/TalalLiaquat/Devops-Portfolio-CICD
 
 ### 🐳 Docker Flask Multi-Stage Application
 
-**Technologies:** Docker • Flask • Python • Linux
-
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-Multi--Stage-blue?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/Python-Flask-yellow?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Linux-Container-black?style=for-the-badge&logo=linux"/>
 </p>
 
-Features:
+A containerized Flask application built using Docker best practices.
+
+**Features:**
 
 * 🐳 Multi-stage Docker build
 * 🔐 Non-root container
-* ❤️ Container health check
+* ❤️ Docker health check
 * 🚀 Flask application
 * 📦 Optimized Docker image
+* 🔌 Container networking
 
 ---
 
 ### 💍 Desi Wedding Management System
 
-**Technologies:** React • FastAPI • PostgreSQL • Docker • AWS • GitHub Actions
-
 <p align="center">
-<img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws"/>
 </p>
 
-A full-stack wedding management platform with **AI-powered features**, authentication, vendor management, payments, invitations, and cloud deployment.
+A full-stack Pakistani wedding management platform with **AI-powered features**, authentication, vendor management, payments, invitations, and cloud deployment.
+
+**DevOps / Cloud Components:**
+
+* 🐳 Docker & Docker Compose
+* ⚙️ GitHub Actions
+* ☁️ AWS EC2
+* 🪣 AWS S3
+* 🌐 Nginx
+* 🗄️ PostgreSQL
+* 🔐 JWT Authentication
 
 ---
 
-## 📚 DevOps Learning Roadmap
+## 📚 DevOps Roadmap
 
 <p align="center">
-<img src="https://img.shields.io/badge/Linux-1st%20Step-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Git-GitHub-red?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/CI%2FCD-Automation-black?style=for-the-badge&logo=githubactions"/>
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform"/>
-<img src="https://img.shields.io/badge/MLOps-AI%20%2B%20DevOps-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/01-Linux-black?style=for-the-badge&logo=linux"/>
+
+➡️
+
+<img src="https://img.shields.io/badge/02-Git%20%26%20GitHub-red?style=for-the-badge&logo=git"/>
+
+➡️
+
+<img src="https://img.shields.io/badge/03-Docker-blue?style=for-the-badge&logo=docker"/>
+
+➡️
+
+<img src="https://img.shields.io/badge/04-AWS-orange?style=for-the-badge&logo=amazonaws"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/05-CI%2FCD-black?style=for-the-badge&logo=githubactions"/>
+
+➡️
+
+<img src="https://img.shields.io/badge/06-Kubernetes-blue?style=for-the-badge&logo=kubernetes"/>
+
+➡️
+
+<img src="https://img.shields.io/badge/07-Terraform-purple?style=for-the-badge&logo=terraform"/>
+
+➡️
+
+<img src="https://img.shields.io/badge/08-MLOps-green?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -192,12 +259,15 @@ A full-stack wedding management platform with **AI-powered features**, authentic
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=talalliaquat&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalliaquat&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TalalLiaquat&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalalLiaquat&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=talalliaquat&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=TalalLiaquat&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
 ---
@@ -205,7 +275,7 @@ A full-stack wedding management platform with **AI-powered features**, authentic
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=talalliaquat&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TalalLiaquat&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -218,7 +288,7 @@ A full-stack wedding management platform with **AI-powered features**, authentic
 <img src="https://img.shields.io/badge/LinkedIn-Talal%20Liaquat-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/talalliaquat">
+<a href="https://github.com/TalalLiaquat">
 <img src="https://img.shields.io/badge/GitHub-TalalLiaquat-black?style=for-the-badge&logo=github"/>
 </a>
 
@@ -234,6 +304,21 @@ A full-stack wedding management platform with **AI-powered features**, authentic
 
 ---
 
+## 💡 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-purple?style=for-the-badge&logo=terraform"/>
+<img src="https://img.shields.io/badge/MLOps-AI%20%2B%20DevOps-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Monitoring-Observability-yellow?style=for-the-badge"/>
+
+</p>
+
+---
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
@@ -242,6 +327,6 @@ A full-stack wedding management platform with **AI-powered features**, authentic
 ⚡ Build • Automate • Deploy • Monitor • Scale ⚡
 </h3>
 
-<p align="center">
-<strong>Aspiring DevOps & Cloud Engineer 🚀</strong>
-</p>
+<h4 align="center">
+🚀 Aspiring DevOps & Cloud Engineer
+</h4>
