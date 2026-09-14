@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TalalLiaquat/TalalLiaquat/main/background%20image.png" width="100%" alt="Talal Liaquat DevOps"/>
+  <img src="https://raw.githubusercontent.com/TalalLiaquat/TalalLiaquat/main/background%20image.png" width="100%" alt="Talal Liaquat - DevOps & Cloud Engineer"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Talal Liaquat</h1>
 
 <h3 align="center">
-🚀 Aspiring DevOps & Cloud Engineer | ☁️ AWS | 🐳 Docker | ⚙️ CI/CD
+🚀 DevOps & Cloud Engineer | ☁️ AWS | 🐳 Docker | ⚙️ CI/CD
 </h3>
 
 <p align="center">
@@ -15,18 +15,18 @@
   <a href="https://github.com/TalalLiaquat?tab=followers">
     <img src="https://img.shields.io/github/followers/TalalLiaquat?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-orange?style=flat" alt="DevOps"/>
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-orange?style=flat" alt="DevOps & Cloud"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science undergraduate** passionate about **DevOps, Cloud Computing, Automation, and AI-driven infrastructure**.
+I'm a **Computer Science Graduate** focused on **DevOps, Cloud Computing, Automation, and AI-driven infrastructure**.
 
-I enjoy building, containerizing, automating, and deploying applications using modern DevOps practices.
+I build, containerize, automate, and deploy applications using modern DevOps practices.
 
-My goal is to become a **DevOps / Cloud Engineer** and eventually specialize in **AI + DevOps / MLOps**.
+My focus is on building **scalable cloud infrastructure, automated CI/CD pipelines, containerized applications, and reliable deployment workflows**.
 
 ### 🎯 What I Do
 
@@ -34,10 +34,11 @@ My goal is to become a **DevOps / Cloud Engineer** and eventually specialize in 
 * 🐳 Containerize applications using **Docker**
 * ⚙️ Build **CI/CD pipelines with GitHub Actions**
 * 🐧 Work with **Linux & Bash**
-* ☸️ Learn and practice **Kubernetes**
-* 🏗️ Explore **Terraform & Infrastructure as Code**
+* ☸️ Work with **Kubernetes**
+* 🏗️ Work with **Terraform & Infrastructure as Code**
+* 🌐 Configure and deploy applications using **Nginx**
 * 📊 Explore **Monitoring & Observability**
-* 🤖 Explore **MLOps and AI + DevOps**
+* 🤖 Work with **AI + DevOps / MLOps**
 
 ---
 
@@ -140,6 +141,7 @@ My goal is to become a **DevOps / Cloud Engineer** and eventually specialize in 
 Deployed a static website using **Amazon S3 and CloudFront CDN**.
 
 **Technologies:**
+
 `AWS S3` `CloudFront` `IAM` `GitHub`
 
 🔗 **Live Website:**
@@ -204,7 +206,7 @@ A containerized Flask application built using Docker best practices.
 
 A full-stack Pakistani wedding management platform with **AI-powered features**, authentication, vendor management, payments, invitations, and cloud deployment.
 
-**DevOps / Cloud Components:**
+**DevOps & Cloud Components:**
 
 * 🐳 Docker & Docker Compose
 * ⚙️ GitHub Actions
@@ -221,17 +223,11 @@ A full-stack Pakistani wedding management platform with **AI-powered features**,
 <p align="center">
 
 <img src="https://img.shields.io/badge/01-Linux-black?style=for-the-badge&logo=linux"/>
-
 ➡️
-
 <img src="https://img.shields.io/badge/02-Git%20%26%20GitHub-red?style=for-the-badge&logo=git"/>
-
 ➡️
-
 <img src="https://img.shields.io/badge/03-Docker-blue?style=for-the-badge&logo=docker"/>
-
 ➡️
-
 <img src="https://img.shields.io/badge/04-AWS-orange?style=for-the-badge&logo=amazonaws"/>
 
 </p>
@@ -239,17 +235,11 @@ A full-stack Pakistani wedding management platform with **AI-powered features**,
 <p align="center">
 
 <img src="https://img.shields.io/badge/05-CI%2FCD-black?style=for-the-badge&logo=githubactions"/>
-
 ➡️
-
 <img src="https://img.shields.io/badge/06-Kubernetes-blue?style=for-the-badge&logo=kubernetes"/>
-
 ➡️
-
 <img src="https://img.shields.io/badge/07-Terraform-purple?style=for-the-badge&logo=terraform"/>
-
 ➡️
-
 <img src="https://img.shields.io/badge/08-MLOps-green?style=for-the-badge"/>
 
 </p>
@@ -304,7 +294,7 @@ A full-stack Pakistani wedding management platform with **AI-powered features**,
 
 ---
 
-## 💡 Currently Learning
+## 📌 Current Focus
 
 <p align="center">
 
@@ -312,8 +302,8 @@ A full-stack Pakistani wedding management platform with **AI-powered features**,
 <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes"/>
 <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-purple?style=for-the-badge&logo=terraform"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-black?style=for-the-badge&logo=githubactions"/>
 <img src="https://img.shields.io/badge/MLOps-AI%20%2B%20DevOps-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Monitoring-Observability-yellow?style=for-the-badge"/>
 
 </p>
 
@@ -328,5 +318,5 @@ A full-stack Pakistani wedding management platform with **AI-powered features**,
 </h3>
 
 <h4 align="center">
-🚀 Aspiring DevOps & Cloud Engineer
+🚀 DevOps & Cloud Engineer
 </h4>
