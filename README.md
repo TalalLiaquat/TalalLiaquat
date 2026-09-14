@@ -159,16 +159,28 @@ My focus is on building **scalable cloud infrastructure, automated CI/CD pipelin
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=TalalLiaquat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="180"
+    alt="Talal's GitHub Stats"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=TalalLiaquat&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalalLiaquat&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img 
+ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TalalLiaquat&layout=compact&theme=tokyonight&hide_border=true" 
+ height="180"
+ alt="Top Languages"
+/>
 
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=TalalLiaquat&theme=tokyonight&hide_border=true" width="70%"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=TalalLiaquat&theme=tokyonight&hide_border=true" 
+    width="70%"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 
 ## 🌐 Connect With Me
